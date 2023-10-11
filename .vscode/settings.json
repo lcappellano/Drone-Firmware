@@ -1,0 +1,4 @@
+{
+    "cmake.sourceDirectory": "D:/Personal Project/Firmware/DRONE_FIRMWARE/.pio/libdeps/bluepill_f103c8/Adafruit BusIO",
+    "C_Cpp.default.compilerPath": "C:/Users/lucag/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc.exe"
+}
